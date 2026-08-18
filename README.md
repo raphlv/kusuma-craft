@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Kusuma Craft - Handicraft E-Commerce
 
@@ -14,7 +14,7 @@
 
 </div>
 
-## ðŸ“Œ Overview
+## " Overview
 
 Kusuma Craft is a dedicated online store and showcase for authentic Indonesian handicraft products, custom artisan souvenirs, and wholesale inquiry management.
 
@@ -22,7 +22,7 @@ Developed to provide a robust, clean, and production-ready architecture tailored
 
 ---
 
-## âœ¨ Key Features
+##  Key Features
 
 - **High-Resolution Product Showcase with Interactive Zoom Gallery**
 - **Custom Souvenir Bulk Order Inquiry & Quotation Builder**
@@ -32,7 +32,7 @@ Developed to provide a robust, clean, and production-ready architecture tailored
 
 ---
 
-## ðŸ› ï¸ Technology Stack
+##   Technology Stack
 
 | Component | Technologies Used |
 | :--- | :--- |
@@ -43,24 +43,24 @@ Developed to provide a robust, clean, and production-ready architecture tailored
 
 ---
 
-## ðŸ“‚ Project Architecture
+## " Project Architecture
 
 `
 kusuma-craft/
-â”œâ”€â”€ app/               # Core application logic & controllers
-â”œâ”€â”€ config/            # System & environment configuration
-â”œâ”€â”€ database/          # Database migrations, seeders & schema
-â”œâ”€â”€ public/            # Public web assets (CSS, JS, Images)
-â”œâ”€â”€ resources/         # Views, templates & raw assets
-â”œâ”€â”€ routes/            # Web and API routing definitions
-â”œâ”€â”€ storage/           # Logs, cache & application uploads
-â”œâ”€â”€ README.md          # Project documentation
-â””â”€â”€ .gitignore         # Git repository exclusions
+""" app/               # Core application logic & controllers
+""" config/            # System & environment configuration
+""" database/          # Database migrations, seeders & schema
+""" public/            # Public web assets (CSS, JS, Images)
+""" resources/         # Views, templates & raw assets
+""" routes/            # Web and API routing definitions
+""" storage/           # Logs, cache & application uploads
+""" README.md          # Project documentation
+"""" .gitignore         # Git repository exclusions
 `
 
 ---
 
-## ðŸš€ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -104,7 +104,7 @@ Ensure you have the following installed on your local environment:
 
 ---
 
-## ðŸ¤ Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/raphlv/kusuma-craft/issues).
 
@@ -116,12 +116,12 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## ðŸ“ License & Author
+## " License & Author
 
 Distributed under the **MIT License**. See LICENSE for more information.
 
-ðŸ‘¤ **Author**: [Pangeran Ryan Pahlevi](https://github.com/raphlv)  
-âœ‰ï¸ **Email**: [pangeranryan080504@gmail.com](mailto:pangeranryan080504@gmail.com)  
+' **Author**: [Pangeran Ryan Pahlevi](https://github.com/raphlv)  
+ **Email**: [pangeranryan080504@gmail.com](mailto:pangeranryan080504@gmail.com)  
 
 ---
 <div align="center">
