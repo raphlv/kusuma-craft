@@ -1,0 +1,647 @@
+KUSUMA CRAFT
+Website Creative Brief
+Brand Website | E-Commerce | Color Archive | Journal
+Core Direction
+Website Kusuma harus terasa seperti toko, arsip, dan studio hidup dalam satu tempat: limbah -> warna -> kain -> objek -> cerita -> kehidupan sehari-hari.
+Daftar Isi
+1. Executive Summary
+2. Project Background
+3. Brand Foundation
+4. Website Objectives
+5. Target Audience
+6. Positioning, Narrative, and Tone of Voice
+7. Visual Direction
+8. Sitemap and Information Architecture
+9. Homepage Flow
+10. Shop and Product Page Requirements
+11. Color Archive
+12. Journal and PISN 2026 Article
+13. Workshop, Custom, and Collaboration
+14. E-Commerce and Technical Requirements
+15. CMS Requirements
+16. UX, SEO, Accessibility, and Analytics
+17. MVP Scope and Phase 2 Growth
+18. Deliverables for Designer and Developer
+19. Sample Website Copy
+20. Success Metrics and Acceptance Criteria
+21. Launch Checklist
+22. References
+1. Executive Summary
+Website Kusuma akan dikembangkan sebagai platform digital utama yang menggabungkan fungsi brand website, katalog produk, e-commerce, arsip warna alami, dan ruang editorial. Website ini bukan hanya tempat menjual produk, tetapi juga ruang untuk menjelaskan proses, material, nilai keberlanjutan, serta perjalanan Kusuma sebagai sustainable craft and textile lab.
+Dalam revisi brief ini, informasi mengenai PISN 2026 tidak ditempatkan sebagai menu atau page khusus. PISN 2026 diposisikan sebagai artikel editorial di dalam Journal / Research Notes agar website tetap terasa sebagai website brand dan e-commerce, bukan website laporan program akademik.
+Final Strategic Choice
+Website utama = brand + shop + color archive + process + journal. PISN 2026 = artikel editorial dalam Journal / Research Notes.
+2. Project Background
+Kusuma adalah brand craft/textile berbasis natural dye yang mengeksplorasi pewarna alami dari limbah organik domestik, kulit buah, rempah lokal Indonesia, dan material tekstil. Brand ini memiliki karakter handmade, personal, intimate, eksperimental, dan dekat dengan praktik seni, kriya, edukasi, serta keberlanjutan.
+Pengembangan website dilakukan sebagai salah satu luaran Program PISN 2026 dengan judul Inovasi Pewarna Tekstil Berbasis Limbah Organik Domestik untuk Pengembangan Praktik Seni Tekstil dan Kriya Berkelanjutan. Namun secara komunikasi publik, website harus tetap membawa pengalaman brand-led: pengunjung mengenal Kusuma, memahami proses, membaca cerita, lalu dapat membeli produk atau mengajukan kolaborasi.
+Referensi website SukkhaCitta digunakan sebagai benchmark konten, terutama cara menggabungkan e-commerce, storytelling, impact, care guide, circularity, journal, customization, dan corporate gifting dalam satu ekosistem web. Benchmark ini digunakan sebagai acuan struktur dan kedalaman konten, bukan untuk meniru visual.
+3. Brand Foundation
+3.1 Brand Essence
+Kusuma dapat diposisikan sebagai sustainable craft and textile lab yang mengolah limbah organik domestik menjadi warna alami, kain, dan objek keseharian. Melalui riset, workshop, dan proses handmade, Kusuma merawat pengetahuan warna botani untuk kehidupan sehari-hari.
+Brand essence: A Living Color Archive of Indonesia.
+Kusuma bukan hanya menjual produk tekstil. Kusuma mengajak audiens melihat kembali hubungan antara material, limbah, warna, tangan pembuat, dan objek yang digunakan sehari-hari.
+3.2 Brand Keywords
+Natural dye
+Organic waste
+Domestic waste innovation
+Textile craft
+Botanical color
+Indonesian color knowledge
+Handmade
+Sustainable living
+Slow craft
+Artisan
+Research-based
+Living archive
+Everyday objects
+Workshop and knowledge sharing
+3.3 Brand Identity Reference
+Logo Guidelines Kusuma menjelaskan brand sebagai sustainable craft lab yang berangkat dari eksperimen natural dye berbasis organic kitchen waste pada textile, dengan proyek #IWearYourWaste. Eksplorasi materialnya mencakup fruit skin waste, Indonesian local spices, dan fabric. Kusuma juga membagikan pengetahuan melalui workshop untuk menyebarkan kesadaran tentang DIY fashion dan cara berkriya yang lebih ramah lingkungan.
+Identitas visual Kusuma merepresentasikan personal touch dari Diah Kusumawardhani sebagai maker, spirit DIY, serta nuansa made by hand with care. Brand identity-nya menggabungkan rasa tradisional-kontemporer Indonesia, neutral color, dan earthy tone agar terasa tender-hearted, grounded, tetap eksklusif, dan dinamis.
+Logogram Kusuma dibangun dari ide fingerprint, hands, small leaf, dan thread. Keempat simbol ini dapat diterjemahkan ke website sebagai bahasa visual tentang human touch, partisipasi workshop, consume less, dan sustain.
+4. Website Objectives
+Objective
+Description
+Brand storytelling
+Mengenalkan Kusuma sebagai sustainable craft lab berbasis natural dye, limbah organik domestik, kriya tekstil, dan pengetahuan warna Nusantara.
+Katalog dan toko online
+Menampilkan produk Kusuma yang dapat dibeli, mulai dari kain, fashion textile, accessories, home objects, art objects, workshop kit, sampai kemungkinan turunan produk lain.
+Color Archive
+Mengarsipkan sumber warna, material pewarna, limbah organik, proses eksperimen, dan hasil warna sebagai diferensiasi utama Kusuma.
+Journal / Stories
+Menjadi ruang untuk artikel, cerita proses, dokumentasi eksperimen, edukasi natural dye, care guide, dan artikel khusus mengenai PISN 2026.
+Community and workshop channel
+Menjadi pintu masuk untuk workshop, custom order, corporate gifting, kolaborasi, dan inquiry.
+Commerce readiness
+Mendukung katalog, cart, pembayaran, pengiriman, order management, dan admin dashboard yang mudah dikelola.
+5. Target Audience
+Audience Segment
+Profile
+Need from Website
+Conscious consumers
+Audiens urban yang peduli pada produk handmade, sustainable fashion, slow living, dan produk dengan cerita.
+Mudah memahami nilai produk, melihat katalog, percaya pada proses, dan checkout tanpa friction.
+Craft and textile enthusiasts
+Orang yang tertarik pada natural dye, kain, kriya, fashion textile, workshop, dan proses pembuatan.
+Butuh detail material, proses, sumber warna, workshop, dan dokumentasi eksperimen.
+Urban creative audience
+Usia 23-45 tahun, tinggal di kota besar, menyukai produk artisan, lokal, meaningful, dan timeless.
+Butuh pengalaman visual yang premium, editorial, dan mobile-friendly.
+Institusi, akademisi, dan komunitas
+Dosen, peneliti, mahasiswa, reviewer, mitra, komunitas seni, dan pihak kampus.
+Butuh narasi riset yang rapi, dokumentasi proses, dan artikel PISN yang mudah ditemukan.
+B2B / collaboration audience
+Brand, interior designer, fashion designer, galeri, hotel, cafe, komunitas, atau institusi.
+Butuh halaman custom/collaboration, portfolio, inquiry form, dan informasi kapasitas kerja sama.
+6. Positioning, Narrative, and Tone of Voice
+6.1 Positioning Statement
+English: Kusuma is a sustainable craft and textile lab transforming domestic organic waste into natural colors, textiles, and crafted objects. Through ongoing research, workshops, and handmade processes, Kusuma preserves botanical color knowledge for everyday life.
+Indonesia: Kusuma adalah laboratorium kriya dan tekstil berkelanjutan yang mengolah limbah organik domestik menjadi warna alami, kain, dan objek keseharian. Melalui riset, workshop, dan proses handmade, Kusuma merawat pengetahuan warna botani untuk kehidupan sehari-hari.
+6.2 Core Narrative
+Every material begins in nature. Every color carries a story. Every object extends that story into everyday life.
+Versi Indonesia: Setiap material bermula dari alam. Setiap warna menyimpan cerita. Setiap benda membawa cerita itu ke kehidupan sehari-hari.
+6.3 Suggested Taglines
+Kusuma - A Living Color Archive of Indonesia
+From Waste to Living Color
+Color, Crafted from What We Leave Behind
+Botanical Colors for Everyday Objects
+Warna dari Limbah, Cerita dari Tangan
+Menjaga Pengetahuan Warna Nusantara
+Recommended Website Tagline
+Kusuma - A Living Color Archive of Indonesia. Transforming domestic organic waste into natural colors, textiles, and crafted objects.
+6.4 Tone of Voice
+Website harus terasa personal, warm, grounded, poetic, tetapi tetap fungsional. Bahasanya tidak terlalu korporat, tidak terlalu kaku seperti eco campaign, dan tidak terlalu mass-commerce. Tone yang disarankan: santai tapi elegan, edukatif tapi ringan, puitis tapi jelas, dan personal saat membahas proses.
+Primary language: Indonesia.
+Optional expansion: bilingual Indonesia-English untuk market yang lebih luas.
+Product detail harus informatif, jelas, dan membantu checkout.
+Journal boleh lebih naratif, editorial, dan reflektif.
+7. Visual Direction
+7.1 Mood and Design Feel
+Natural
+Earthy
+Textural
+Handmade
+Archival
+Soft premium
+Indonesian contemporary
+Calm editorial
+Craft laboratory
+7.1 Brand Color Palette
+Swatch
+Name
+Hex
+Recommended Usage
+Primary navy
+#273B59
+Logo, heading, CTA utama, footer, section gelap.
+Deep teal-blue
+#2B4766
+Accent section, hover, secondary CTA, pattern overlay.
+Earth brown
+#9A8B75
+Textural accent, label material, detail artisan.
+Warm neutral
+#BDB8A4
+Background lembut, card, editorial block.
+Soft beige
+#CFC9BA
+Section process, product story, quote block.
+Terracotta
+#BF7763
+Highlight, badge, link aktif, call-to-action emosional.
+Off white
+#F5F3E9
+Background utama website agar hangat dan clean.
+Dark grey
+#383838
+Body text dan informasi teknis.
+Light grey
+#F2F2F2
+Form field, separator, empty state.
+7.2 Pattern Usage
+Pattern dari brand guideline - termasuk batik pattern, logo pattern, dan shibori pattern - bisa digunakan sebagai texture overlay, bukan sebagai elemen yang terlalu dominan. Prioritas website tetap clean, ringan, dan mudah dibaca.
+Hero background secara halus
+Divider antar section
+Footer texture
+Card background untuk Color Archive
+Hover state atau micro-interaction
+Editorial block di halaman About/Process/Journal
+7.3 Typography Direction
+Guideline memuat Raleway sebagai font yang free for commercial use dan Religion sebagai personal use only. Untuk website live, Raleway dapat digunakan sebagai body atau UI font. Jika ingin memakai font display yang menyerupai karakter Religion, lisensi komersial wajib dicek atau diganti dengan alternatif legal untuk commercial use.
+Heading: display serif/decorative yang legal untuk commercial use dan mendekati karakter logo.
+Body: Raleway atau sans-serif clean yang mudah dibaca.
+Accent text: italic serif atau small caps untuk nuansa editorial, dengan readability tetap aman.
+7.4 Visual Guardrails
+Do
+Do Not
+Gunakan foto close-up tekstur kain, proses tangan, material limbah, dan swatch warna.
+Jangan membuat website terasa seperti marketplace generik.
+Gunakan white space, grid clean, dan warna netral hangat.
+Jangan menggunakan terlalu banyak pattern sampai mengganggu keterbacaan.
+Tampilkan variasi natural dye sebagai karakter handmade.
+Jangan over-polish visual sampai kehilangan rasa craft dan material.
+Pastikan CTA dan checkout tetap jelas.
+Jangan membuat storytelling terlalu panjang sebelum pengguna bisa belanja.
+8. Sitemap and Information Architecture
+8.1 Final Main Navigation
+Shop
+Color Archive
+Process
+Journal
+Workshop
+Custom
+About
+Primary CTA: Shop Collection. Secondary CTA: Explore Color Archive.
+8.2 Shop Categories
+All Products
+Kain / Textile
+Ready-to-Wear
+Accessories
+Home and Living
+Art Objects
+Workshop Kit
+One-of-a-Kind Pieces
+Collaboration
+Gift
+Struktur kategori harus fleksibel karena Kusuma berpotensi berkembang melampaui produk textile fashion ke aksesoris, objek interior, furniture textile, kit workshop, produk gift, dan kolaborasi.
+8.3 Footer Structure
+Shop
+About Kusuma
+Color Archive
+Process
+Journal
+Workshop
+Custom / Collaboration
+Care Guide
+Shipping and Returns
+FAQ
+Contact
+Instagram
+Newsletter
+Link artikel PISN dapat muncul di kategori Journal / Research Notes, bukan sebagai item footer utama.
+9. Homepage Flow
+Order
+Section
+Content Direction
+CTA / Function
+1
+Hero
+Visual kain natural dye, close-up tekstur, tangan mencelup, atau produk dalam setting natural. Headline: A Living Color Archive of Indonesia.
+Shop Collection; Explore Color Archive
+2
+Brand Introduction
+Kusuma sebagai sustainable craft lab yang mengubah limbah organik domestik menjadi warna, tekstil, dan objek.
+Read About Kusuma
+3
+Featured Categories
+Cards: Textile and Kain, Wearable Pieces, Accessories, Home Objects, Workshop Kit.
+Shop by Category
+4
+Color Archive Preview
+Tampilkan card warna dan sumber material seperti kulit bawang, kulit manggis, kunyit, daun, kulit buah, rempah lokal.
+Explore Color Archive
+5
+Process
+Flow sederhana: collect -> extract -> dye -> dry -> craft -> use.
+See the Process
+6
+Featured Products
+Produk unggulan dengan badge Naturally Dyed, One of a Kind, Made from Kitchen Waste.
+Add to Cart / View Product
+7
+Journal Preview
+Menampilkan 3 artikel terbaru, salah satunya bisa artikel PISN 2026.
+Read the Story
+8
+Workshop / Collaboration
+Pintu masuk untuk workshop natural dye, custom order, dan kolaborasi.
+Join Workshop; Request Collaboration
+9
+Newsletter
+Notes from the Color Lab untuk update produk, workshop, cerita warna, dan eksperimen terbaru.
+Subscribe
+10. Shop and Product Page Requirements
+10.1 Product Listing / Catalog
+Katalog harus mudah dipindai, mobile-first, dan memiliki sistem filter yang mendukung perkembangan produk jangka panjang.
+Catalog Element
+Requirement
+Product card
+Foto produk, nama produk, harga, kategori, warna utama, status stok, badge.
+Badge
+Naturally Dyed, One of a Kind, Limited, Made to Order, Workshop Product, PISN Research Note jika relevan.
+Filter
+Category, Color, Natural Dye Source, Material, Price, Availability, Ready Stock / Made to Order, One-of-a-Kind, Collection.
+Sorting
+Newest, Price low-high, Price high-low, Featured, One-of-a-Kind.
+Search
+Cari produk berdasarkan nama, warna, material, kategori, atau sumber pewarna.
+10.2 Product Detail Page
+Product name
+Price
+Product category
+Image gallery
+Short product description
+Material kain
+Natural dye source
+Color story
+Size / dimension
+Weight
+Stock availability
+Care instruction
+Shipping info
+Payment method
+Add to cart
+Related products
+10.3 Product Story Sections
+Section
+Content Direction
+Color Source
+Menjelaskan sumber warna, misalnya kulit bawang, kunyit, kulit manggis, daun, atau limbah organik domestik lain.
+Material Story
+Jenis kain, tekstur, karakter, dan pengalaman penggunaan.
+Process Note
+Catatan singkat tentang proses pencelupan, pengeringan, dan pembuatan.
+Natural Variation Disclaimer
+Menjelaskan bahwa variasi tone, bercak halus, atau ketidaksamaan warna adalah karakter handmade, bukan cacat.
+Care Guide
+Instruksi cuci, jemur, setrika, dan cara menjaga warna alami.
+11. Color Archive
+Color Archive adalah diferensiasi utama website Kusuma. Bagian ini berfungsi sebagai arsip pengetahuan warna alami dan dokumentasi eksperimen material, bukan sekadar galeri warna.
+11.1 Color Archive Card
+Field
+Description
+Nama warna
+Nama deskriptif atau poetik yang tetap mudah dipahami.
+Foto swatch
+Foto warna pada kain, close-up tekstur, atau sample material.
+Material pewarna
+Contoh: kulit bawang, kulit buah, rempah, daun, limbah dapur domestik.
+Sumber limbah
+Konteks sumber: dapur domestik, sisa konsumsi, pasar, komunitas, workshop.
+Teknik ekstraksi
+Ringkasan proses ekstraksi, mordanting jika ada, dan pencelupan.
+Jenis kain
+Katun, linen, sutra, rayon, atau material lain.
+Hasil warna
+Tone utama, variasi, karakter, dan stabilitas visual.
+Produk terkait
+Produk yang menggunakan warna tersebut.
+Catatan eksperimen
+Observasi tim, variasi hasil, dan kemungkinan pengembangan.
+11.2 Color Archive UX
+Tampilkan sebagai grid swatch yang dapat difilter berdasarkan sumber material, color family, dan jenis kain.
+Setiap swatch bisa dibuka menjadi detail page atau modal dengan cerita singkat.
+Hubungkan color archive dengan produk terkait agar arsip tetap terhubung ke commerce.
+Gunakan bahasa editorial yang mudah dipahami, bukan format laporan lab yang terlalu teknis.
+12. Journal and PISN 2026 Article
+12.1 Journal Role
+Journal menjadi ruang editorial Kusuma untuk cerita proses, edukasi natural dye, dokumentasi eksperimen, care guide, workshop stories, collaboration stories, dan artikel khusus PISN 2026. Journal harus terasa seperti Notes from the Color Lab, bukan blog generik.
+12.2 Journal Categories
+Category
+Content
+Color Notes
+Cerita tentang sumber warna, material organik, limbah dapur, dan hasil warna.
+Process Stories
+Dokumentasi proses pewarnaan, pencelupan, pengeringan, eksperimen, dan produksi.
+Care Guide
+Panduan merawat kain dan produk natural dye.
+Research Notes
+Artikel yang menjelaskan riset, eksplorasi, dan pengembangan praktik kriya berkelanjutan. Artikel PISN 2026 masuk di sini.
+Workshop Stories
+Dokumentasi workshop, kelas, komunitas, atau kegiatan edukasi.
+Collaboration Stories
+Cerita kolaborasi dengan artisan, komunitas, akademisi, atau brand lain.
+12.3 PISN 2026 as Article, Not Page
+PISN 2026 tidak perlu menjadi menu atau page khusus. Posisinya adalah artikel editorial di Journal dengan kategori Research Notes. Hal ini menjaga website tetap terasa sebagai brand website, sambil tetap mendokumentasikan luaran program secara publik.
+12.4 Suggested Article Titles
+Dari Limbah Dapur ke Warna Tekstil: Catatan Riset PISN 2026
+PISN 2026: Mengembangkan Pewarna Tekstil dari Limbah Organik Domestik
+Research Notes: Inovasi Pewarna Tekstil Berbasis Limbah Organik Domestik
+Behind the Color: Eksperimen Pewarna Alami dalam Program PISN 2026
+Recommended Article Title
+Dari Limbah Dapur ke Warna Tekstil: Catatan Riset PISN 2026
+12.5 Suggested PISN Article Structure
+Section
+Content Direction
+Opening
+Narasi dekat dengan brand: warna lahir dari hal-hal yang sering ditinggalkan, seperti kulit buah, sisa dapur, rempah, dan material organik domestik.
+Latar Belakang
+Kenapa limbah organik domestik penting dieksplorasi sebagai sumber warna alami.
+Tentang Program
+Menyebutkan judul program lengkap PISN 2026 secara jelas.
+Eksplorasi Material
+Material yang diteliti: kulit buah, rempah lokal, limbah dapur, daun, dan sumber warna organik lain.
+Proses Eksperimen
+Flow sederhana: collect -> extract -> dye -> dry -> document -> craft.
+Hasil Pengembangan
+Eksplorasi dapat berkembang menjadi fashion textile, kain, aksesoris, home living, art object, atau produk kriya lain.
+Kontribusi untuk Kusuma
+Program memperkaya katalog warna, dokumentasi proses, dan inovasi produk.
+Dokumentasi
+Foto proses, swatch warna, eksperimen material, workshop, produk, dan behind the scenes.
+Closing
+Menutup dengan hubungan antara material, tangan, alam, dan kehidupan sehari-hari.
+12.6 Article Teaser Copy
+Dari Limbah Dapur ke Warna Tekstil
+Melalui Program PISN 2026, Kusuma mengembangkan eksplorasi pewarna alami berbasis limbah organik domestik sebagai bagian dari praktik seni tekstil dan kriya berkelanjutan.
+CTA: Read the Story
+13. Workshop, Custom, and Collaboration
+Website perlu membuka peluang pengembangan Kusuma sebagai brand yang tidak hanya menjual produk, tetapi juga membangun ekosistem edukasi dan kolaborasi.
+Feature
+Purpose
+Required Fields / Content
+Workshop
+Mempromosikan kelas natural dye, sharing session, atau program komunitas.
+Tanggal, lokasi, kapasitas, harga, materi, benefit, CTA daftar, dokumentasi workshop sebelumnya.
+Custom Order
+Membuka peluang produk custom untuk personal, interior, gifting, atau koleksi khusus.
+Nama, email/WhatsApp, jenis produk, kebutuhan ukuran, jumlah, timeline, referensi mood.
+Collaboration Inquiry
+Menampung kerja sama dengan brand, institusi, galeri, kampus, hotel, cafe, atau komunitas.
+Nama institusi, kontak, tipe kolaborasi, brief singkat, deadline, file upload opsional.
+Corporate Gifting
+Membuka peluang paket hadiah berbasis produk kriya berkelanjutan.
+Jumlah, budget range, jenis produk, packaging, timeline, alamat pengiriman.
+14. E-Commerce and Technical Requirements
+14.1 Product Data Fields
+Product name
+SKU
+Category
+Collection
+Price
+Stock
+Product type
+Material
+Natural dye source
+Color family
+Size / dimension
+Weight
+Care instruction
+Product story
+Image gallery
+Status: ready stock / made to order / sold out
+Badge: one-of-a-kind, naturally dyed, limited, workshop product, PISN archive note if relevant
+14.2 Payment Requirements
+Website perlu mendukung sistem pembayaran yang sesuai dengan pengguna Indonesia dan memungkinkan skala ke depannya.
+Bank transfer
+Virtual account
+E-wallet
+QRIS
+Credit/debit card
+Automatic invoice/order confirmation
+Payment gateway dapat dipilih sesuai platform dan budget, misalnya Midtrans, Xendit, DOKU, atau integrasi bawaan platform e-commerce. Keputusan final perlu dibuat setelah scope platform ditentukan.
+14.3 Shipping Requirements
+Kalkulasi ongkir otomatis
+Input alamat lengkap
+Pilihan kurir
+Tracking number
+Email/WhatsApp notification
+Status pesanan
+Opsi pickup jika suatu saat dibutuhkan
+14.4 Admin Dashboard Requirements
+Menambah/mengedit produk
+Update stok
+Upload foto
+Mengelola order
+Melihat status pembayaran
+Input resi
+Membuat artikel journal
+Menambah entry Color Archive
+Mengelola workshop/event
+Mengubah banner homepage
+Mengelola promo atau featured product
+14.5 Platform Considerations
+Option
+Strength
+Consideration
+Shopify
+E-commerce kuat, checkout stabil, banyak integrasi.
+Biaya bulanan dan app dapat bertambah; perlu penyesuaian untuk Color Archive.
+WooCommerce
+Fleksibel, cocok untuk konten dan commerce, ownership lebih tinggi.
+Butuh maintenance hosting, security, dan plugin management.
+Custom / Headless
+Paling fleksibel untuk Color Archive dan storytelling.
+Development lebih mahal dan butuh maintenance teknis lebih serius.
+15. CMS Requirements
+Karena website tidak hanya toko, CMS harus kuat untuk storytelling dan pengarsipan. Admin non-teknis harus bisa mengelola konten tanpa bantuan developer untuk update reguler.
+Content Type
+Key Fields
+Products
+Name, SKU, category, price, stock, product story, material, natural dye source, care instruction, images, related color archive.
+Collections
+Collection name, description, cover image, product list, launch date.
+Color Archive
+Nama warna, swatch, material pewarna, sumber limbah, teknik, jenis kain, hasil warna, produk terkait, catatan eksperimen.
+Journal Articles
+Title, category, cover image, excerpt, body, gallery, related products, related color archive, tags, SEO title, SEO description.
+Workshop
+Title, date, location, capacity, price, description, registration link/form, photos.
+Care Guide
+Care topic, product type, instructions, warning notes, related products.
+FAQ
+Question, answer, category.
+Custom / Collaboration Inquiry
+Form fields, routing email, response template, optional file upload.
+16. UX, SEO, Accessibility, and Analytics
+16.1 UX Principles
+Mobile-first dan cepat dibuka.
+Foto produk jelas dengan detail tekstur.
+Checkout sederhana dan minim langkah.
+Storytelling tidak mengganggu proses belanja.
+Kategori mudah berkembang.
+Visual handmade tapi tetap premium.
+Artikel PISN mudah ditemukan melalui Journal / Research Notes.
+Struktur informasi SEO-friendly.
+16.2 SEO Requirements
+SEO title dan meta description untuk setiap product, collection, journal, dan color archive.
+URL slug rapi dan deskriptif.
+Alt text untuk foto produk dan dokumentasi proses.
+Schema basic untuk product jika platform mendukung.
+Internal linking antara product, color archive, journal, dan process.
+Blog/article structure dengan heading yang jelas.
+16.3 Accessibility Requirements
+Kontras warna teks aman, terutama di atas background beige/terracotta.
+CTA jelas secara visual dan teks.
+Form memiliki label yang jelas.
+Navigasi keyboard-friendly.
+Alt text untuk gambar penting.
+Ukuran font body nyaman dibaca di mobile.
+Jangan menyampaikan informasi hanya melalui warna.
+16.4 Analytics Requirements
+Google Analytics atau privacy-friendly analytics sesuai keputusan tim.
+Event tracking: add to cart, checkout start, purchase, newsletter signup, inquiry submit, workshop register.
+Traffic source tracking untuk Instagram, campaign, workshop, dan artikel PISN.
+Search keyword internal jika tersedia.
+Monthly report sederhana: traffic, best product, best article, conversion, inquiry.
+17. MVP Scope and Phase 2 Growth
+17.1 Phase 1 - MVP Launch
+Home
+Shop / Catalog
+Product Detail
+Cart
+Checkout
+Payment Integration
+Shipping Integration
+About Kusuma
+Process
+Color Archive basic version
+Journal basic
+PISN 2026 article inside Journal / Research Notes
+Workshop basic
+Custom / Collaboration inquiry form
+Contact / WhatsApp
+FAQ
+Care Guide
+17.2 Phase 2 - Growth
+Customer account
+Wishlist
+Gift card
+Workshop booking
+Custom order flow
+Collaboration portfolio
+Advanced Color Archive
+Interactive process map
+Impact counter
+Email newsletter automation
+Multi-language Indonesia/English
+Wholesale / corporate gifting page
+Repair / redye service page jika relevan
+18. Deliverables for Designer and Developer
+18.1 Web Designer Deliverables
+Moodboard website
+Sitemap
+User flow
+Wireframe desktop and mobile
+UI design homepage
+UI design product listing
+UI design product detail
+UI design Color Archive
+UI design Journal article template
+UI design Workshop / Custom inquiry
+UI kit
+Typography system
+Button and form style
+Icon/pattern usage guide
+Responsive design
+18.2 Developer Deliverables
+Website development
+CMS setup
+Product catalog setup
+Payment integration
+Shipping integration
+Cart and checkout
+Admin dashboard
+SEO basic setup
+Analytics setup
+Security setup
+Responsive testing
+Speed optimization
+Admin training/handover
+Technical documentation
+18.3 Content Writer / Brand Team Deliverables
+Final website copy for Home, About, Process, Shop, Product detail, Color Archive, Journal, Workshop, Custom, FAQ, and Care Guide.
+Product descriptions and product story format.
+Color Archive entries for initial launch.
+Article PISN 2026 as Research Notes.
+Image captions and alt text.
+Newsletter signup copy and automated email copy if needed.
+19. Sample Website Copy
+19.1 Hero Copy
+A Living Color Archive of Indonesia
+Kusuma transforms domestic organic waste into natural colors, textiles, and crafted objects - preserving botanical color knowledge through everyday pieces.
+CTA: Explore the Collection
+19.2 About Short Copy
+Kusuma is a sustainable craft lab exploring natural dye from organic kitchen waste, local spices, and textile materials. Through handmade processes and ongoing experiments, Kusuma turns what is often discarded into colors, cloth, and objects with meaning.
+19.3 Product Story Copy
+Dyed with organic waste and crafted by hand, each Kusuma piece carries subtle variations in color and texture. No two pieces are exactly alike - each one reflects the material, process, and time behind it.
+19.4 Color Archive Copy
+The Color Archive documents Kusuma’s ongoing experiments with botanical and organic waste-based dyes. Each color records a source, a process, and a possibility for more sustainable textile practice.
+19.5 PISN Article Opening Copy
+Dari Limbah Dapur ke Warna Tekstil: Catatan Riset PISN 2026
+Di Kusuma, warna tidak hanya dilihat sebagai hasil akhir. Warna adalah jejak material, proses, waktu, dan tangan yang mengolahnya.
+Melalui Program PISN 2026 dengan judul Inovasi Pewarna Tekstil Berbasis Limbah Organik Domestik untuk Pengembangan Praktik Seni Tekstil dan Kriya Berkelanjutan, Kusuma mengembangkan eksplorasi pewarna alami dari limbah organik domestik. Material yang sering dianggap sisa, seperti kulit buah, rempah, dan limbah dapur, dipelajari kembali sebagai sumber warna untuk tekstil dan produk kriya.
+Program ini menjadi bagian dari perjalanan Kusuma dalam membangun praktik yang lebih sadar material, lebih dekat dengan alam, dan lebih bertanggung jawab terhadap proses produksi.
+20. Success Metrics and Acceptance Criteria
+20.1 Success Metrics
+Produk dapat ditampilkan dengan jelas dan mudah dibeli.
+Checkout, pembayaran, dan pengiriman berjalan lancar.
+Inquiry custom/collaboration meningkat dan terekam rapi.
+Color Archive dapat dipahami dan terhubung dengan produk.
+Artikel PISN 2026 terdokumentasi sebagai Research Notes.
+Website memperkuat Kusuma sebagai sustainable craft lab.
+Audiens memahami proses natural dye dan value produk.
+Newsletter/community database mulai terkumpul.
+20.2 Acceptance Criteria
+Website lulus responsive testing di mobile, tablet, dan desktop.
+Semua CTA utama berfungsi.
+Payment dan shipping sudah diuji end-to-end.
+Admin dapat menambah produk, journal, dan color archive tanpa bantuan developer.
+Load speed homepage dan product page dalam batas wajar untuk e-commerce.
+Tidak ada broken link pada main navigation, footer, dan checkout.
+SEO basic terpasang untuk halaman utama.
+Artikel PISN 2026 sudah publish atau siap publish saat launch.
+21. Launch Checklist
+Area
+Checklist
+Brand
+Logo, color palette, pattern, typography, tone of voice sudah konsisten.
+Content
+Home, About, Process, Shop, Color Archive, Journal, Workshop, Custom, FAQ, Care Guide sudah final.
+PISN Article
+Artikel Research Notes tentang PISN 2026 sudah ditulis, dilengkapi dokumentasi, dan tidak muncul sebagai page utama.
+Commerce
+Produk, harga, stok, SKU, cart, checkout, payment, shipping sudah diuji.
+Admin
+Tim Kusuma dapat update produk, order, artikel, dan color archive.
+Legal/Policy
+Privacy policy, terms, shipping, return, dan care disclaimer tersedia.
+SEO
+Meta title, meta description, alt text, sitemap, dan basic analytics tersedia.
+QA
+Responsive, speed, browser testing, form testing, dan order testing selesai.
+22. References
+Logo Guidelines Kusuma. 2022. Internal brand guideline. Key references: page 2 brand description and positioning; page 3 logogram ideation; pages 5-6 pattern usage; page 7 color palette; page 8 typography direction.
+SukkhaCitta official website. Used as content benchmark for sustainable fashion e-commerce structure: shop, farm-to-closet storytelling, impact, 100% plant dyes, regenerative farming, journal, customize/corporate gifting, care, shipping, and repair/redye services. Accessed 29 Juni 2026. https://www.sukkhacitta.com/
+Possibility website visa base44
+https://kusuma-living-archive.base44.app
