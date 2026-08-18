@@ -1,129 +1,54 @@
 <div align="center">
 
-# Kusuma Craft - Handicraft E-Commerce
+# Kusuma Craft - Handicraft E-Commerce and Workshop
 
-### *Traditional Handicraft Showcase & Custom Order Portal*
+### *WordPress and WooCommerce Platform for Authentic Indonesian Crafts*
 
-![PHP](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=PHP&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=CSS3&logoColor=white)
-
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-6.x-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-8.x-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.1-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-orange?style=for-the-badge)
 
 ---
 
 </div>
 
-## " Overview
+## Overview
 
-Kusuma Craft is a dedicated online store and showcase for authentic Indonesian handicraft products, custom artisan souvenirs, and wholesale inquiry management.
-
-Developed to provide a robust, clean, and production-ready architecture tailored for E-Commerce & Handicrafts requirements.
+Kusuma Craft is a custom WordPress and WooCommerce e-commerce portal built to showcase authentic Indonesian handicraft products, custom artisan souvenirs, and manage wholesale international inquiries.
 
 ---
 
-##  Key Features
+## Key Features and Automation Scripts
 
-- **High-Resolution Product Showcase with Interactive Zoom Gallery**
-- **Custom Souvenir Bulk Order Inquiry & Quotation Builder**
-- **Local & International Shipping Rate Integration**
-- **Artisan Story & Material Provenance Spotlight**
-- **Admin Inventory & Sales Analytics Dashboard**
+### 1. Custom WooCommerce Integration
+- Automated WooCommerce store configuration (setup_woocommerce_settings.php).
+- Custom shipping cost calculation adjustment (fix_shipping_cost.php).
+- Automated Cart and Checkout page generator (setup_cart_checkout_pages.php).
 
----
-
-##   Technology Stack
-
-| Component | Technologies Used |
-| :--- | :--- |
-| **Backend & Framework** | PHP / Node.js / Laravel / Modular Architecture |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Bootstrap / Tailwind CSS |
-| **Database** | MySQL / MariaDB / Relational Schema |
-| **Tools & Version Control** | Git, Composer, NPM, Laragon / Web Server |
+### 2. Installer Package and Brand Identity Assets
+- Package zip archives (kusuma-installer.zip, kusuma-theme.zip).
+- Official Brand Identity and Logo Guidelines (Logo Guidelines.pdf, Creative_Brief_Website_Kusuma_PISN_2026.docx).
 
 ---
 
-## " Project Architecture
+## Automated Setup Utilities
 
-`
-kusuma-craft/
-""" app/               # Core application logic & controllers
-""" config/            # System & environment configuration
-""" database/          # Database migrations, seeders & schema
-""" public/            # Public web assets (CSS, JS, Images)
-""" resources/         # Views, templates & raw assets
-""" routes/            # Web and API routing definitions
-""" storage/           # Logs, cache & application uploads
-""" README.md          # Project documentation
-"""" .gitignore         # Git repository exclusions
-`
+- setup_complete_data.php: Initializes product categories, craft items, and sample orders.
+- set_permalinks.php: Configures pretty URL rewrites for SEO optimization.
+- verify_urls.php and inspect.php: Verifies store health and endpoint status.
 
 ---
 
-##  Getting Started
+## License and Author
 
-### Prerequisites
+Distributed under the MIT License.
 
-Ensure you have the following installed on your local environment:
-- **PHP** >= 8.0 or **Node.js** >= 16.x
-- **Composer** / **NPM**
-- **MySQL** / **MariaDB**
-- Web Server (**Laragon** / **XAMPP** / **Apache** / **Nginx**)
-
-### Installation Steps
-
-1. **Clone the repository**
-   `ash
-   git clone https://github.com/raphlv/kusuma-craft.git
-   cd kusuma-craft
-   `
-
-2. **Install Dependencies**
-   `ash
-   composer install
-   # or
-   npm install
-   `
-
-3. **Environment Configuration**
-   Copy the .env.example file and configure your database settings:
-   `ash
-   cp .env.example .env
-   `
-
-4. **Database Setup & Migration**
-   `ash
-   php artisan migrate --seed
-   `
-
-5. **Run Local Development Server**
-   `ash
-   php artisan serve
-   # or start via Laragon virtual host: http://kusuma-craft.test
-   `
-
----
-
-##  Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/raphlv/kusuma-craft/issues).
-
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git checkout -b feature/AmazingFeature)
-5. Open a Pull Request
-
----
-
-## " License & Author
-
-Distributed under the **MIT License**. See LICENSE for more information.
-
-' **Author**: [Pangeran Ryan Pahlevi](https://github.com/raphlv)  
- **Email**: [pangeranryan080504@gmail.com](mailto:pangeranryan080504@gmail.com)  
+Author: Pangeran Ryan Pahlevi (https://github.com/raphlv)  
+Email: pangeranryan080504@gmail.com  
 
 ---
 <div align="center">
-  <sub>Automated Sync Enabled for Contribution Tracking | Last Updated: 2026-08-18 14:20:38</sub>
+  <sub>Automated Sync Enabled for Contribution Tracking | Last Updated: 2026-08-18 14:40:47</sub>
 </div>
