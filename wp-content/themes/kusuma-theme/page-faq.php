@@ -12,7 +12,7 @@ get_header();
     <div class="container-narrow" style="text-align: center; padding: var(--spacing-lg) 0;">
         <span style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); font-weight: bold; display: block; margin-bottom: var(--spacing-sm);">Pusat Bantuan & Pertanyaan</span>
         <h1 class="page-title" style="margin-bottom: var(--spacing-md);">Pertanyaan Yang Sering Diajukan (FAQ)</h1>
-        <p style="font-size: 1.15rem; line-height: 1.8; color: var(--color-dark-grey);">Temukan jawaban seputar material pewarna alami limbah dapur, proses pesanan, pengiriman, hingga kemitraan workshop.</p>
+        <p style="font-size: 1.15rem; line-height: 1.8; color: var(--color-dark-grey);">Temukan jawaban seputar identitas resmi PT KRIYA CITA KUSUMA, pembayaran, pengiriman JNE, hingga kemitraan workshop.</p>
     </div>
 </section>
 
@@ -20,8 +20,71 @@ get_header();
     <div class="container-narrow">
         <div class="faq-accordion-wrapper">
             
-            <!-- Category 1: Products & Natural Dye -->
-            <h2 style="font-size: 1.3rem; margin-bottom: var(--spacing-md); color: var(--color-primary-navy); border-bottom: 2px solid var(--color-primary-navy); padding-bottom: 5px;">Produk & Pewarnaan Alami</h2>
+            <!-- Category 1: Company Profile & Legal Identity -->
+            <h2 style="font-size: 1.3rem; margin-bottom: var(--spacing-md); color: var(--color-primary-navy); border-bottom: 2px solid var(--color-primary-navy); padding-bottom: 5px;">Profil Perusahaan & Lokasi Studio</h2>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>Siapa entitas legal dan Owner / Director dari Kusuma Craft?</span>
+                    <span class="faq-icon">+</span>
+                </button>
+                <div class="faq-answer">
+                    <p>Kusuma Craft secara resmi dinaungi oleh badan hukum <strong>PT KRIYA CITA KUSUMA</strong> dengan Owner / Director <strong>DIAH KUSUMAWARDANI</strong>.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>Di mana lokasi studio resmi Kusuma Craft?</span>
+                    <span class="faq-icon">+</span>
+                </button>
+                <div class="faq-answer">
+                    <p>Alamat studio dan operasional kami berlokasi di:<br>
+                    <strong>KUSUMA CRAFT STUDIO</strong><br>
+                    Griya Pipit 6 Blok A5/16-17, RT 03/RW 013, Pondok Kacang Timur, Pondok Aren, Tangerang Selatan, Banten - 15226</p>
+                </div>
+            </div>
+
+            <!-- Category 2: Payment & Shipping -->
+            <h2 style="font-size: 1.3rem; margin-top: var(--spacing-lg); margin-bottom: var(--spacing-md); color: var(--color-primary-navy); border-bottom: 2px solid var(--color-primary-navy); padding-bottom: 5px;">Pembayaran & Pengiriman (Shipping)</h2>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>Metode pembayaran apa saja yang diterima?</span>
+                    <span class="faq-icon">+</span>
+                </button>
+                <div class="faq-answer">
+                    <p>Pembayaran dapat dilakukan melalui <strong>Transfer Rekening Bank</strong> dan <strong>QRIS</strong>. Berikut adalah rincian rekening resmi kami:<br><br>
+                    <strong>Bank Name:</strong> BANK RAKYAT INDONESIA (BRI)<br>
+                    <strong>Branch:</strong> KC Bintaro<br>
+                    <strong>Account Number:</strong> 0393-01-004141-56-4<br>
+                    <strong>Account Holder:</strong> PT KRIYA CITA KUSUMA<br><br>
+                    Anda juga dapat melakukan scan kode QRIS saat checkout untuk pembayaran e-wallet dan m-banking.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>Layanan kurir pengiriman apa yang digunakan?</span>
+                    <span class="faq-icon">+</span>
+                </button>
+                <div class="faq-answer">
+                    <p>Semua pesanan produk Kusuma Craft dikirimkan menggunakan mitra kurir resmi <strong>JNE</strong> (JNE Express / JNE Regular). Pesanan diproses dan dikemas secara rapi serta aman dari studio kami di Tangerang Selatan.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>Berapa lama proses pengolahan dan pengiriman produk?</span>
+                    <span class="faq-icon">+</span>
+                </button>
+                <div class="faq-answer">
+                    <p>Untuk produk <em>Ready Stock</em>, pesanan akan dikirimkan via JNE dalam 1-2 hari kerja setelah konfirmasi pembayaran. Untuk produk <em>Made-to-Order</em> atau pesanan custom, waktu pengerjaan pencelupan membutuhkan waktu 7-14 hari kerja.</p>
+                </div>
+            </div>
+
+            <!-- Category 3: Products & Natural Dye -->
+            <h2 style="font-size: 1.3rem; margin-top: var(--spacing-lg); margin-bottom: var(--spacing-md); color: var(--color-primary-navy); border-bottom: 2px solid var(--color-primary-navy); padding-bottom: 5px;">Produk & Pewarnaan Alami</h2>
 
             <div class="faq-item">
                 <button class="faq-question">
@@ -39,44 +102,11 @@ get_header();
                     <span class="faq-icon">+</span>
                 </button>
                 <div class="faq-answer">
-                    <p>Setiap produk Kusuma dibuat secara manual (*handmade slow craft*) dari limbah organik domestik seperti kulit bawang merah, kulit manggis, dan rimpang lokal. Variasi musiman material organik dan sentuhan tangan pengrajin menghasilkan perbedaan tone yang subtle pada tiap helainya. Hal ini adalah bukti keaslian produk handmade, bukan cacat produksi.</p>
+                    <p>Setiap produk Kusuma dibuat secara manual (*handmade slow craft*) dari limbah organik domestik seperti kulit bawang merah, kulit manggis, dan rimpang lokal. Variasi musiman material organik dan sentuhan tangan pengrajin menghasilkan perbedaan tone yang subtle pada tiap helainya.</p>
                 </div>
             </div>
 
-            <div class="faq-item">
-                <button class="faq-question">
-                    <span>Apakah pewarna yang digunakan aman untuk kulit sensitif?</span>
-                    <span class="faq-icon">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>Ya, 100% aman. Kami hanya menggunakan bahan organik buangan dapur dan bahan botani lokal yang dikombinasikan dengan serat serat alami (linen, sutra mentah, dan katun organik) tanpa logam berat beracun atau pewarna kimia sintetis.</p>
-                </div>
-            </div>
-
-            <!-- Category 2: Orders & Shipping -->
-            <h2 style="font-size: 1.3rem; margin-top: var(--spacing-lg); margin-bottom: var(--spacing-md); color: var(--color-primary-navy); border-bottom: 2px solid var(--color-primary-navy); padding-bottom: 5px;">Pemesanan & Pengiriman</h2>
-
-            <div class="faq-item">
-                <button class="faq-question">
-                    <span>Berapa lama proses pengolahan dan pengiriman produk?</span>
-                    <span class="faq-icon">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>Untuk produk <em>Ready Stock</em>, pesanan akan dikirimkan dalam 1-2 hari kerja. Untuk produk <em>Made-to-Order</em> atau pesanan custom, waktu pengerjaan pencelupan membutuhkan waktu 7-14 hari kerja tergantung kompleksitas motif dan warna.</p>
-                </div>
-            </div>
-
-            <div class="faq-item">
-                <button class="faq-question">
-                    <span>Metode pembayaran apa saja yang diterima?</span>
-                    <span class="faq-icon">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>Kami menerima pembayaran melalui Transfer Bank (BCA, Mandiri), QRIS, Virtual Account, serta e-wallet utama di Indonesia.</p>
-                </div>
-            </div>
-
-            <!-- Category 3: Workshop & Collaboration -->
+            <!-- Category 4: Workshop & Collaboration -->
             <h2 style="font-size: 1.3rem; margin-top: var(--spacing-lg); margin-bottom: var(--spacing-md); color: var(--color-primary-navy); border-bottom: 2px solid var(--color-primary-navy); padding-bottom: 5px;">Workshop & Kolaborasi</h2>
 
             <div class="faq-item">
