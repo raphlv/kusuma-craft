@@ -19,5 +19,22 @@ Bespoke woodcraft and furniture digital showroom. Features custom dimensions quo
 
 ---
 
+## Key Features
+
+- Custom Furniture Dimensions Estimator: Request quotes based on wood types (Teak, Mahogany, Suar) and custom room dimensions.
+- WooCommerce Product Catalog: Organized categories for Living Room, Dining Sets, Bedroom Sets, and Outdoor Furniture.
+- Multi-Currency Display: Supports international buyers with real-time currency conversion rates.
+- High-Resolution Material Showcase: Detailed wood grain and finish swatches.
+
+---
+
+## Technology Stack
+
+- CMS Core: WordPress 6.x and WooCommerce
+- Database: MySQL 8.0
+- Server Environment: PHP 8.2 / Apache
+
+---
+
 ## Developer and Maintainer
 Pangeran Ryan Pahlevi - https://pangeranryan.vercel.app
