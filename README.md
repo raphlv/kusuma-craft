@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
-# Kusuma Craft â€” Handcrafted Wood & Furniture Platform
+# Kusuma Craft - Handcrafted Wood and Furniture Platform
 
-### *Custom Furniture Catalog, Material Inquiry System, & Global Showcase*
+### *Custom Furniture Catalog, Material Inquiry System, and Global Showcase*
 
 ![WordPress](https://img.shields.io/badge/WordPress-6.x-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-8.x-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
@@ -20,7 +20,4 @@ Bespoke woodcraft and furniture digital showroom. Features custom dimensions quo
 ---
 
 ## Developer and Maintainer
-Pangeran Ryan Pahlevi â€” https://pangeranryan.vercel.app
-
-<!-- Last verified: 2026-09-01 13:10:43 by Pangeran Ryan Pahlevi -->
-
+Pangeran Ryan Pahlevi - https://pangeranryan.vercel.app
