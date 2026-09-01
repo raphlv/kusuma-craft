@@ -38,7 +38,7 @@ Bespoke woodcraft and furniture digital showroom. Features custom dimensions quo
 
 ## Getting Started
 
-`ash
+`ash
 # Clone the repository
 git clone https://github.com/raphlv/kusuma-craft.git
 cd kusuma-craft
