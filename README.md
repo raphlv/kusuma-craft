@@ -36,5 +36,18 @@ Bespoke woodcraft and furniture digital showroom. Features custom dimensions quo
 
 ---
 
+## Getting Started
+
+`ash
+# Clone the repository
+git clone https://github.com/raphlv/kusuma-craft.git
+cd kusuma-craft
+
+# Place folder inside your local web server (e.g. Laragon / XAMPP)
+# Import MySQL database dump and configure wp-config.php
+`
+
+---
+
 ## Developer and Maintainer
 Pangeran Ryan Pahlevi - https://pangeranryan.vercel.app
